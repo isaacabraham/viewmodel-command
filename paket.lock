@@ -1,0 +1,6 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (4.0.0.1)
+    FSharp.ViewModule.Core (1.0.5)
+      FSharp.Core
+    FsXaml.Wpf (2.2)
